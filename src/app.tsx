@@ -39,7 +39,7 @@ export default function App() {
 
   return (
     <Flex width='100vw' height='100vh' flexDir='column' className={styles} alignItems='center'>
-      <ReactLogo />
+      <ReactLogo width='80vw' />
       <ConstructionText />
     </Flex>
   )
